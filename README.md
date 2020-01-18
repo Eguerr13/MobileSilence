@@ -1,2 +1,3 @@
 # MobileSilence
-Mobile Application using Geofencing, with a certain diameter to determine if the phone should be silenced.
+
+The goal of this project is to create a mobile application to help with the common problem of having a phone interrupt during important instances whether it's in a meeting, classroom, or even work. This application is going to allow the user to select a certain area in which they would like there phone silenced. This is going to use Geofencing to determine if the phone is within the certain if it is in the previously determined location it will automatically silence the phone with our worries of it going off.
